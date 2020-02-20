@@ -4,7 +4,7 @@ Para clonar e executar este repositório, você precisará do [Git](https://git-
 
 ```bash
 # Clone o repositório
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/jpos15/Tarefa_Electron.git
 # Vá para o repositório
 cd electron-quick-start
 # Instale as dependencias
